@@ -20,7 +20,7 @@ namespace practice_sem6_asp.net
             a = Convert.ToInt32(TextBox1.Text);
             b = Convert.ToInt32(TextBox2.Text);
             int sum = a + b;
-            Response.Write(sum);
+            Response.Write("print"+sum);
         }
     }
 }
