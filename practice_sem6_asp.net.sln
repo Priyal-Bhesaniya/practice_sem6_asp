@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice_sem6_asp.net", "practice_sem6_asp.net\practice_sem6_asp.net.csproj", "{B4889C8C-82F3-4CAC-8B71-7F7949FEACE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4889C8C-82F3-4CAC-8B71-7F7949FEACE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4889C8C-82F3-4CAC-8B71-7F7949FEACE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4889C8C-82F3-4CAC-8B71-7F7949FEACE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4889C8C-82F3-4CAC-8B71-7F7949FEACE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {242BA61E-C927-4490-A0D1-03FC32C9348A}
+	EndGlobalSection
+EndGlobal
